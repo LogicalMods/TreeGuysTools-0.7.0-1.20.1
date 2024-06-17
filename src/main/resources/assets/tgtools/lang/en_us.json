@@ -1,0 +1,16 @@
+{
+  "item.tgtools.t1_clippers": "Tier 1 Clippers",
+  "item.tgtools.t2_clippers": "Tier 2 Clippers",
+  "item.tgtools.t3_clippers": "Tier 3 Clippers",
+  "item.tgtools.t4_clippers": "Tier 4 Clippers",
+
+  "item.tgtools.t1_splitter": "Tier 1 Splitter",
+  "item.tgtools.t2_splitter": "Tier 2 Splitter",
+  "item.tgtools.t3_splitter": "Tier 3 Splitter",
+  "item.tgtools.t4_splitter": "Tier 4 Splitter",
+
+  "item.tgtools.firewood": "Firewood",
+  "item.tgtools.chopped_leaves": "Chopped Leaves",
+
+  "creativeTab.tgtools": "Tree Guy Tools"
+}
