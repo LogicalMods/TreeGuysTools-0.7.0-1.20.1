@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "minecraft:leaves"
+    },
+    {
+      "tag": "tgtools:clipper_tool"
+    }
+  ],
+  "result": {
+    "item": "tgtools:chopped_leaves",
+    "count": 4
+  }
+}

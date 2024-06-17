@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:mangrove_log"
+    },
+    {
+      "tag": "tgtools:splitter_tool"
+    }
+  ],
+  "result": {
+    "item": "minecraft:mangrove_planks",
+    "count": 8
+  }
+}

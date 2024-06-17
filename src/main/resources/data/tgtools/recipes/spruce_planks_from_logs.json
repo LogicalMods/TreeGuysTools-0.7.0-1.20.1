@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:spruce_log"
+    },
+    {
+      "tag": "tgtools:splitter_tool"
+    }
+  ],
+  "result": {
+    "item": "minecraft:spruce_planks",
+    "count": 8
+  }
+}
