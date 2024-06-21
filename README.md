@@ -22,10 +22,9 @@ Please leave feedback and check regularly for updates!
 Recipes:
 
 Clipper Recipe:
-# # - Copper, iron, gold, diamond 
-
- X - stick
- #
+(# # - Copper, iron, gold, diamond) 
+(X - stick)
+( # - Copper, iron, gold, diamond)
  
 Splitter Recipe:
 Any standard material axe tool + redstone torch (this is will most likely be nerfed in the future)
